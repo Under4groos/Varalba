@@ -1,0 +1,16 @@
+C:\Users\UnderKo\source\repos\Varalba\VaralbaControls\bin\Debug\VaralbaControls.dll
+C:\Users\UnderKo\source\repos\Varalba\VaralbaControls\bin\Debug\VaralbaControls.pdb
+C:\Users\UnderKo\source\repos\Varalba\VaralbaControls\bin\Debug\SVGlib.dll
+C:\Users\UnderKo\source\repos\Varalba\VaralbaControls\bin\Debug\SVGlib.pdb
+C:\Users\UnderKo\source\repos\Varalba\VaralbaControls\obj\Debug\VaralbaControls.csproj.AssemblyReference.cache
+C:\Users\UnderKo\source\repos\Varalba\VaralbaControls\obj\Debug\MsgBox.g.cs
+C:\Users\UnderKo\source\repos\Varalba\VaralbaControls\obj\Debug\VaralbaControls_MarkupCompile.cache
+C:\Users\UnderKo\source\repos\Varalba\VaralbaControls\obj\Debug\VaralbaControls_MarkupCompile.lref
+C:\Users\UnderKo\source\repos\Varalba\VaralbaControls\obj\Debug\MsgBox.baml
+C:\Users\UnderKo\source\repos\Varalba\VaralbaControls\obj\Debug\VaralbaControls.g.resources
+C:\Users\UnderKo\source\repos\Varalba\VaralbaControls\obj\Debug\VaralbaControls.csproj.CoreCompileInputs.cache
+C:\Users\UnderKo\source\repos\Varalba\VaralbaControls\obj\Debug\VaralbaControls.dll
+C:\Users\UnderKo\source\repos\Varalba\VaralbaControls\obj\Debug\VaralbaControls.pdb
+C:\Users\UnderKo\source\repos\Varalba\Compile\VaralbaControls.dll
+C:\Users\UnderKo\source\repos\Varalba\Compile\VaralbaControls.pdb
+C:\Users\UnderKo\source\repos\Varalba\VaralbaControls\obj\Debug\VaralbaControls.csproj.CopyComplete

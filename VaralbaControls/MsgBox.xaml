@@ -1,0 +1,40 @@
+﻿<UserControl xmlns:Control="clr-namespace:SVGlib.Control;assembly=SVGlib"  x:Class="VaralbaControls.MsgBox"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:VaralbaControls"  
+             mc:Ignorable="d" HorizontalAlignment="Left" 
+              
+             >
+    <UserControl.Resources>
+        <Style x:Key="label" TargetType="Label">
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="VerticalContentAlignment" Value="Bottom"/>
+            <Setter Property="Padding" Value="0"/>
+            <Setter Property="Margin" Value="0"/>
+            <Setter Property="FontSize" Value="20"/>
+
+        </Style>
+    </UserControl.Resources>
+    <Border CornerRadius="10" >
+        <Grid>
+
+            <Ellipse Margin="10"  HorizontalAlignment="Left" Width="50" Height="50" VerticalAlignment="Top">
+                <Ellipse.Fill>
+                    <ImageBrush x:Name="imageavatar"  AlignmentX="Center" AlignmentY="Center" Stretch="UniformToFill"/>
+                </Ellipse.Fill>
+            </Ellipse>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="70,10,0,0">
+                <Label x:Name="UserName" Style="{StaticResource label}" Content="UnderKo" Foreground="White" ></Label>
+                <Label x:Name="CTime" Style="{StaticResource label}" Margin="10,0,0,0" FontSize="14"  Content="10:52 pm" Foreground="#FF9C9C9C"></Label>
+            </StackPanel>
+            <Grid Margin="70,50,0,0" >
+                <StackPanel x:Name="message_list">
+           
+                </StackPanel>
+            </Grid>
+        </Grid>
+    </Border>
+</UserControl>

@@ -1,0 +1,9 @@
+C:\Users\UnderKo\source\repos\Varalba\VaralbaLib\bin\Debug\VaralbaLib.dll
+C:\Users\UnderKo\source\repos\Varalba\VaralbaLib\bin\Debug\VaralbaLib.pdb
+C:\Users\UnderKo\source\repos\Varalba\VaralbaLib\obj\Debug\VaralbaLib.csproj.AssemblyReference.cache
+C:\Users\UnderKo\source\repos\Varalba\VaralbaLib\obj\Debug\VaralbaLib.csproj.CoreCompileInputs.cache
+C:\Users\UnderKo\source\repos\Varalba\VaralbaLib\obj\Debug\VaralbaLib.dll
+C:\Users\UnderKo\source\repos\Varalba\VaralbaLib\obj\Debug\VaralbaLib.pdb
+C:\Users\UnderKo\source\repos\Varalba\Compile\VaralbaLib.dll
+C:\Users\UnderKo\source\repos\Varalba\Compile\VaralbaLib.pdb
+C:\Users\UnderKo\source\repos\Varalba\VaralbaLib\obj\Debug\VaralbaLib.csproj.CopyComplete
